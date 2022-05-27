@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/victorstrandmoe/Documents/menu-a-little/Menu/Backend2/Backend2.csproj": {}
+    "/Users/victorstrandmoe/Documents/menu-a-little/Menu/Backend/Backend.csproj": {}
   },
   "projects": {
-    "/Users/victorstrandmoe/Documents/menu-a-little/Menu/Backend2/Backend2.csproj": {
+    "/Users/victorstrandmoe/Documents/menu-a-little/Menu/Backend/Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/victorstrandmoe/Documents/menu-a-little/Menu/Backend2/Backend2.csproj",
-        "projectName": "Backend2",
-        "projectPath": "/Users/victorstrandmoe/Documents/menu-a-little/Menu/Backend2/Backend2.csproj",
+        "projectUniqueName": "/Users/victorstrandmoe/Documents/menu-a-little/Menu/Backend/Backend.csproj",
+        "projectName": "Backend",
+        "projectPath": "/Users/victorstrandmoe/Documents/menu-a-little/Menu/Backend/Backend.csproj",
         "packagesPath": "/Users/victorstrandmoe/.nuget/packages/",
-        "outputPath": "/Users/victorstrandmoe/Documents/menu-a-little/Menu/Backend2/obj/",
+        "outputPath": "/Users/victorstrandmoe/Documents/menu-a-little/Menu/Backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/victorstrandmoe/.nuget/NuGet/NuGet.Config"
